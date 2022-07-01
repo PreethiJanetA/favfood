@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color:green;
+}
+.container{
+    background-color: grey;
+    border: 6px solid white;
+    width: 100vw;
+    height: 200vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1cm;
+    
+};
+.pic-1 {
+    background-color: lightcoral;
+    width:80vw;
+    height:50vh;
+    border: 6px solid lavenderblush;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1cm;
+    
+}
+.pic-2{
+    background-color: skyblue;
+    width:80vw;
+    height: 50vh;
+    border: 6px solid palevioletred;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 0.4cm;
+    font-weight: bolder;
+   
+   
+}
+.pic-3{
+    background-color: plum;
+    width:80vw;
+    height:50vh;
+    border: 6px solid brown;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 0.4cm;
+    font-weight: bolder;
+}
+.pic-4{
+    background-color:yellowgreen;
+    width:80vw;
+    height:42vh;
+    border: 6px solid cornsilk;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 0.4cm;
+    font-weight: bolder;
+   
+}
+.food{
+    height:50vh;
+    width:99vw;
+  
+}
+.ramen{
+    height:38vh;
+    width: 40vw;
+    
+}
+.noodles{
+    height:38vh;
+    width: 40vw;
+}
+.kimchi{
+    height:30vh;
+    width: 33vw;
+}
+.heading{
+    font-style: italic;
+    color: black;
+    position:absolute;
+    left: 0;
+    top: 2.3cm;
+    right: 0;
+}
+
